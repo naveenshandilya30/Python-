@@ -1,4 +1,5 @@
 #Question 1
+
 a=3
 try:
     if a<4:
